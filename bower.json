@@ -1,0 +1,14 @@
+{
+  "name": "angularjs-grunt-seed",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "angular": "1.4.8",
+    "angular-route": "1.4.8",
+    "angular-animate": "1.4.8",
+    "angular-mocks": "1.4.8"
+  },
+  "resolutions": {
+    "angular": "1.4.8"
+  }
+}
